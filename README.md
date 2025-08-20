@@ -1,10 +1,9 @@
-# Lorena Torres  <img src=https://www.icegif.com/wp-content/uploads/2024/03/powerpuff-girls-icegif-2.gif width="80px">
+# Lorena Torres     <img src=https://i.gifer.com/YVP8.gif width="70">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Lorena Torres</strong>, <strong>sou estudante de tecnologia, e estou elaborando alguns projetos, me siga para acompanhar a minha jornada! </strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: Java 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+-  Atualmente estou aprendendo: Java, HTML, JavaScript, CSS
+-  Nós podemos falar em: <strong>Português</strong>
 
 <div align="center">
 

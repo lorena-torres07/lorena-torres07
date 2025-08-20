@@ -1,4 +1,4 @@
-# Lorena Torres <img src="[https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fas-meninas-super-poderosas-4840895%2Fpage%2Fblog%2Fa-fulga%2FrY0q_QeHeuJgQKomXL5zWrEJLPKo4M3Dj&psig=AOvVaw0SNQTtVlp22NXVThHeNMZh&ust=1755735347329000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDsjYOOmI8DFQAAAAAdAAAAABAi)" width="30px">
+# Lorena Torres <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fas-meninas-super-poderosas-4840895%2Fpage%2Fblog%2Fa-fulga%2FrY0q_QeHeuJgQKomXL5zWrEJLPKo4M3Dj&psig=AOvVaw0SNQTtVlp22NXVThHeNMZh&ust=1755735347329000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDsjYOOmI8DFQAAAAAdAAAAABAi)" width="30px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 

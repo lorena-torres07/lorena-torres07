@@ -1,4 +1,4 @@
-# Lorena Torres</n> <img src=https://www.icegif.com/wp-content/uploads/2024/03/powerpuff-girls-icegif-2.gif width="80px">
+# Lorena Torres <br> <img src=https://www.icegif.com/wp-content/uploads/2024/03/powerpuff-girls-icegif-2.gif width="80px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 

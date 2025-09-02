@@ -37,8 +37,8 @@ Estou sempre buscando conectar a teoria acadêmica com a prática do mercado par
 
 <br>
 
-## 📊 Minhas Estatísticas no GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorena-torres07&layout=compact&langs_count=7&theme=dracula) <br>
+## 📊 Minhas Estatísticas no GitHub 
+<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorena-torres07&layout=compact&langs_count=7&theme=dracula) <br><br>
 ![Estatísticas de Lorena no GitHub](https://github-readme-stats.vercel.app/api?username=lorena-torres07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 
